@@ -1,4 +1,4 @@
-content = """# Hi 👋, I'm Daniel
+Hi 👋, I'm Daniel
 
 **IT Support Engineer | Backend Development | Automation | AI-Assisted Development**
 
@@ -25,6 +25,10 @@ I'm also exploring how AI-assisted development can help me design, build, debug,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 
 ## 🤖 AI-Assisted Development
 
