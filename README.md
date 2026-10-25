@@ -1,4 +1,11 @@
-Hi 👋, I'm Daniel
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=3000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+George"
+    alt="Hi, I'm Daniel George"
+  />
+</h1>
+
 
 **IT Support Engineer | Backend Development | Automation | AI-Assisted Development**
 
